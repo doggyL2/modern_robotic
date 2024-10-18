@@ -5,5 +5,6 @@ include file or assignment about modern robotic course on coursera ,the info of 
 
 upload the assignment of IK chapter
 
-2024.10.08 update
+2024.10.19 update
+
 upload the assignment of chapter 8
