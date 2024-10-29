@@ -8,3 +8,7 @@ upload the assignment of IK chapter
 2024.10.19 update
 
 upload the assignment of chapter 8
+
+2024.10.29 update
+
+upload the project  of chapter 10 part1
